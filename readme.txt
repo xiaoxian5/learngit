@@ -4,4 +4,8 @@ Git has a mutable index called stage.
 diff test
 Git tracks changes of files.
 test1
-test2
+test2 
+test3
+test4
+test5
+
